@@ -517,3 +517,18 @@ img {
 #enlargeImageModal{
   background-color: #21252987;
 }
+
+.parallax-window1 {
+    min-height: 400px;
+    background: transparent;
+}
+
+.parallax-window2 {
+    min-height: 400px;
+    background: transparent;
+}
+
+.parallax-window3 {
+    min-height: 400px;
+    background: transparent;
+}
